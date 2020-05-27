@@ -2,33 +2,33 @@
 
 ## Table of Contents
 
-* **[Books](#books)**
+* :books: **[Books](#books)**
 
-* **[Courses](#courses)**  
+* :pencil2: **[Courses](#courses)**  
 
-* **[Videos and Lectures](#videos-and-lectures)**  
+* :video_camera: **[Videos and Lectures](#videos-and-lectures)**  
 
-* **[Papers](#papers)**  
+* :pencil: **[Papers](#papers)**  
 
-* **[Tutorials](#tutorials)**  
+* :blue_book: **[Tutorials](#tutorials)**  
 
-* **[Researchers](#researchers)**  
+* :nerd_face: **[Researchers](#researchers)**  
 
-* **[Websites](#websites)**  
+* :computer: **[Websites](#websites)**  
 
-* **[Environments](#environments)**
+* :game_die: **[Environments](#environments)**
 
-* **[Datasets](#datasets)**
+* :bar_chart: **[Datasets](#datasets)**
 
-* **[Conferences](#Conferences)**
+* :loudspeaker: **[Conferences](#Conferences)**
 
-* **[Frameworks](#frameworks)**  
+* :vertical_traffic_light: **[Frameworks](#frameworks)**  
 
-* **[Tools](#tools)**  
+* :toolbox: **[Tools](#tools)**  
 
-* **[Miscellaneous](#miscellaneous)**  
+* :satellite: **[Miscellaneous](#miscellaneous)**  
 
-* **[Contributing](#contributing)** 
+* :bulb: **[Contributing](#contributing)** 
 
 ---
 ### Books
