@@ -31,93 +31,93 @@
 * :bulb: **[Contributing](#contributing)** 
 
 ---
-### :books: Books
+### Books
 
 1.  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
 
 --- 
-### :pencil2: Courses
+### Courses
 
 1.  [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) by Martha White and Adam White in Coursera
 
 ---
-### :video_camera: Videos and Lectures
+### Videos and Lectures
 
 1.  [example_1](https://www.youtube.com/) By Example
 2.  [example_2](https://www.youtube.com/) By Example
 3.  [example_3](https://www.youtube.com/) By Example
 
 ---
-### :pencil: Papers
+### Papers
 
 1.  [example_1](http://example.pdf)
 2.  [example_2](http://example.pdf)
 3.  [example_3](http://example.pdf)
 
 ---
-### :blue_book: Tutorials
+### Tutorials
 
 1.  [example_1](http://example.pdf)
 2.  [example_2](http://example.pdf)
 3.  [example_3](http://example.pdf)
 
 ---
-## :nerd_face: Researchers
+### Researchers
 
 1. [example_1](http://example.com)
 2. [example_2](http://example.com)
 3. [example_3](http://example.com)
 
 ---
-### :computer: Websites
+### Websites
 
 1. [example_1](http://example.com)
 2. [example_2](http://example.com)
 3. [example_3](http://example.com)
 
 ---
-### :game_die: Environments
+### Environments
 
 1. [example_1](http://example.com)
 2. [example_2](http://example.com)
 3. [example_3](http://example.com)
 
 ---
-### :bar_chart: Datasets
+### Datasets
 
 1. [example_1](http://example.com)
 2. [example_2](http://example.com)
 3. [example_3](http://example.com)
 
 ---
-### :loudspeaker: Conferences
+### Conferences
 
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
 2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
 3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
 
 ---
-### :vertical_traffic_light: Frameworks
+### Frameworks
 
 1.  [Caffe](http://caffe.berkeleyvision.org/)  
 2.  [Torch7](http://torch.ch/)
 3.  [Theano](http://deeplearning.net/software/theano/)
 
 ---
-### :toolbox: Tools
+### Tools
 
 1.  [Jupyter Notebook](http://jupyter.org) - Web-based notebook environment for interactive computing
 2.  [TensorBoard](https://github.com/tensorflow/tensorboard) - TensorFlow's Visualization Toolkit
 
 ---
-### :satellite: Miscellaneous
+### Miscellaneous
 
 1. [example_1](http://example.com)
 2. [example_2](http://example.com)
 3. [example_3](http://example.com)
 
 -----
-### :bulb: Contributing
+### Contributing
 Have anything in mind that you think is awesome and would fit in this list? Feel free to send a [pull request](https://github.com/jrzmnt/Awesome-RL-IL/pulls).
 
 -----
