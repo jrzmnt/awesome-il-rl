@@ -39,8 +39,6 @@
 ### Courses
 
 1.  [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) by Martha White and Adam White in Coursera
-2.  [example_2](http://www.example.org/) by example and example in example
-3.  [example_3](http://www.example.org/) by example and example in example
 
 ---
 ### Videos and Lectures
