@@ -33,9 +33,7 @@
 ---
 ### Books
 
-1.  [example_1](http://www.example.org/) by example and example (00/00/00)
-2.  [example_2](http://www.example.org/) by example and example (00/00/00)
-3.  [example_3](http://www.example.org/) by example and example (00/00/00)
+1.  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
 
 --- 
 ### Courses
