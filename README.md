@@ -38,7 +38,13 @@
 --- 
 ### Courses
 
-1.  [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) by Martha White and Adam White in Coursera
+1. [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning) by Martha White and Adam White in Coursera
+
+2. [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods?) by Martha White and Adam White in Coursera
+
+3. [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation?) by Martha White and Adam White in Coursera
+
+4. [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system?) by Martha White and Adam White in Coursera
 
 ---
 ### Videos and Lectures
