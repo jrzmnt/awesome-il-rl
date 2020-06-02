@@ -46,6 +46,10 @@
 
 4. [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system?) by Martha White and Adam White in Coursera
 
+5. [Reinforcement Learning - Georgia Tech](https://classroom.udacity.com/courses/ud600)
+
+6. [RL Course by David Silver (DeepMind)](https://www.youtube.com/watch?v=2pWv7GOvuf0&list=PLqYmG7hTraZBiG_XpjnPrSNw-1XQaM_gB)
+
 ---
 ### Videos and Lectures
 
@@ -105,9 +109,10 @@
 ---
 ### Frameworks
 
-1.  [Caffe](http://caffe.berkeleyvision.org/)  
-2.  [Torch7](http://torch.ch/)
-3.  [Theano](http://deeplearning.net/software/theano/)
+1.  [Acme](https://deepmind.com/research/publications/Acme)  
+2.  [Caffe](http://caffe.berkeleyvision.org/)  
+3.  [Torch7](http://torch.ch/)  
+4.  [Theano](http://deeplearning.net/software/theano/)
 
 ---
 ### Tools
