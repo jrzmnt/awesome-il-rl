@@ -81,18 +81,18 @@
 ---
 ### Websites
 
+1. [example_1](http://example.com)
+2. [example_2](http://example.com)
+3. [example_3](http://example.com)
+
+---
+### Environments
+
 1. [Acrobot-v1](https://gym.openai.com/envs/Acrobot-v1/)
 2. [CartPole-v1](https://gym.openai.com/envs/CartPole-v1/)
 3. [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/)
 4. [MountainCarContinuous-v0](https://gym.openai.com/envs/MountainCarContinuous-v0/)
 5. [Pendulum-v0](https://gym.openai.com/envs/Pendulum-v0/)
-
----
-### Environments
-
-1. [example_1](http://example.com)
-2. [example_2](http://example.com)
-3. [example_3](http://example.com)
 
 ---
 ### Datasets
