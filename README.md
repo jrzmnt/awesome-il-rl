@@ -60,7 +60,7 @@
 ---
 ### Papers
 
-1.  [example_1](http://example.pdf)
+1.  [Augmented Behavioral Cloning from Observation](https://arxiv.org/abs/2004.13529)
 2.  [example_2](http://example.pdf)
 3.  [example_3](http://example.pdf)
 
