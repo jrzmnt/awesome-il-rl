@@ -61,7 +61,7 @@
 ### Papers
 
 1.  [Augmented Behavioral Cloning from Observation](https://arxiv.org/abs/2004.13529)
-2.  [example_2](http://example.pdf)
+2.  [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954)
 3.  [example_3](http://example.pdf)
 
 ---
