@@ -74,9 +74,8 @@
 ---
 ### Researchers
 
-1. [example_1](http://example.com)
-2. [example_2](http://example.com)
-3. [example_3](http://example.com)
+1. [Richard S. Sutton](http://incompleteideas.net/)
+2. [Peter Stone](https://www.cs.utexas.edu/~pstone/)
 
 ---
 ### Websites
