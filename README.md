@@ -92,6 +92,7 @@
 3. [MountainCar-v0](https://gym.openai.com/envs/MountainCar-v0/)
 4. [MountainCarContinuous-v0](https://gym.openai.com/envs/MountainCarContinuous-v0/)
 5. [Pendulum-v0](https://gym.openai.com/envs/Pendulum-v0/)
+6. [CoinRun](https://openai.com/blog/quantifying-generalization-in-reinforcement-learning/)
 
 ---
 ### Datasets
