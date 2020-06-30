@@ -63,6 +63,7 @@
 1.  [Augmented Behavioral Cloning from Observation](https://arxiv.org/abs/2004.13529)
 2.  [Behavioral Cloning from Observation](https://arxiv.org/abs/1805.01954)
 3.  [Generative Adversarial Imitation Learning](https://arxiv.org/abs/1606.03476)
+4.  [Generative adversarial Imitation from Observation](https://arxiv.org/abs/1807.06158)
 
 ---
 ### Tutorials
