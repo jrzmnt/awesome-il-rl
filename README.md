@@ -53,7 +53,7 @@
 ---
 ### Videos and Lectures
 
-1.  [example_1](https://www.youtube.com/) By Example
+1.  [Imitation Learning Tutorial ICML 2018](https://youtu.be/WjFdD7PDGw0)
 2.  [example_2](https://www.youtube.com/) By Example
 3.  [example_3](https://www.youtube.com/) By Example
 
