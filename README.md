@@ -54,7 +54,7 @@
 ### Videos and Lectures
 
 1.  [Imitation Learning Tutorial ICML 2018](https://youtu.be/WjFdD7PDGw0)
-2.  [example_2](https://www.youtube.com/) By Example
+2.  [Stanford CS234: Reinforcement Learning | Winter 2019 | Lecture 7 - Imitation Learning](https://youtu.be/V7CY68zH6ps)
 3.  [example_3](https://www.youtube.com/) By Example
 
 ---
