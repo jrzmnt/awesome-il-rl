@@ -129,9 +129,7 @@
 ---
 ### Miscellaneous
 
-1. [example_1](http://example.com)
-2. [example_2](http://example.com)
-3. [example_3](http://example.com)
+1. [Deep Reinforcement Learning](https://arxiv.org/pdf/1810.06339.pdf)
 
 -----
 ### Contributing
