@@ -34,6 +34,7 @@
 ### Books
 
 1.  [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
+2.  [An Algorithmic Perspective on Imitation Learning](https://arxiv.org/ftp/arxiv/papers/1811/1811.06711.pdf)
 
 --- 
 ### Courses
