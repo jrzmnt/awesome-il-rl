@@ -86,8 +86,7 @@
 ### Websites
 
 1. [Introduction to Imitation Learning](https://blog.statsbot.co/introduction-to-imitation-learning-32334c3b1e7a)
-2. [example_2](http://example.com)
-3. [example_3](http://example.com)
+2. [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
 
 ---
 ### Environments
