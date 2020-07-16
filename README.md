@@ -111,6 +111,7 @@
 1. [CVPR - IEEE Conference on Computer Vision and Pattern Recognition](http://cvpr2018.thecvf.com)
 2. [AAMAS - International Joint Conference on Autonomous Agents and Multiagent Systems](http://celweb.vuse.vanderbilt.edu/aamas18/)
 3. [IJCAI - 	International Joint Conference on Artificial Intelligence](https://www.ijcai-18.org/)
+4. [AAAI - Association for the Advancement of Artificial Intelligence](https://www.aaai.org/Conferences/conferences.php)
 
 ---
 ### Frameworks
