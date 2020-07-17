@@ -68,6 +68,10 @@
 6.  [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](https://paperswithcode.com/paper/reinforced-cross-modal-matching-and-self)
 7. [Imitation Learning: A Survey of Learning Methods](http://www.open-access.bcu.ac.uk/5045/1/Imitation%20Learning%20A%20Survey%20of%20Learning%20Methods.pdf)
 8. [Recent Advances in Imitation Learning from Observation](https://arxiv.org/pdf/1905.13566.pdf)
+9. [DQN - Playing Atari with Deep Reinforcement Learning](https://arxiv.org/pdf/1312.5602.pdf)
+10. [TRPO - Trust Region Policy Optimization](http://proceedings.mlr.press/v37/schulman15.pdf)
+11. [SAC - Soft Actor-Critic: Off-policy Maximum Entropy Deep Reinforcement Learning with a Stochastic Actor](https://arxiv.org/pdf/1801.01290.pdf)
+12. [DDPG - Continuous Control with Deep Reinforcement Learning](https://arxiv.org/pdf/1509.02971.pdf)
 
 ---
 ### Tutorials
