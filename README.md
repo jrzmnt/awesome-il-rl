@@ -125,6 +125,7 @@
 3.  [Torch7](http://torch.ch/)  
 4.  [Theano](http://deeplearning.net/software/theano/)
 5.  [TensorFlow](https://www.tensorflow.org/)
+6.  [RLkit](https://github.com/vitchyr/rlkit)
 
 ---
 ### Tools
